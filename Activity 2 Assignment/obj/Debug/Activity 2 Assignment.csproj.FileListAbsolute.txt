@@ -1,0 +1,11 @@
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\bin\Debug\Activity 2 Assignment.exe.config
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\bin\Debug\Activity 2 Assignment.exe
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\bin\Debug\Activity 2 Assignment.pdb
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity_2_Assignment.MultiplyBy2.resources
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity_2_Assignment.Properties.Resources.resources
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.csproj.GenerateResource.cache
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.exe
+C:\Users\Dusty4G\source\repos\Activity 2 Assignment\Activity 2 Assignment\obj\Debug\Activity 2 Assignment.pdb
